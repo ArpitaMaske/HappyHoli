@@ -32,3 +32,6 @@ After the text animation completes, the screen remains for 1 second before closi
 🔹 Add background effects like firecrackers appearing one after another.
 🔹 Include sound effects or Holi music for a more immersive experience.
 🔹 Make the text bounce or dissolve using Pygame animations.
+
+https://github.com/ArpitaMaske/HappyHoli/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
+
